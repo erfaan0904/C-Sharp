@@ -1,0 +1,9 @@
+D:\C# projects\JigsawPuzzle\JigsawPuzzle\bin\Debug\JigsawPuzzle.exe.config
+D:\C# projects\JigsawPuzzle\JigsawPuzzle\bin\Debug\JigsawPuzzle.exe
+D:\C# projects\JigsawPuzzle\JigsawPuzzle\bin\Debug\JigsawPuzzle.pdb
+D:\C# projects\JigsawPuzzle\JigsawPuzzle\obj\Debug\JigsawPuzzle.csprojResolveAssemblyReference.cache
+D:\C# projects\JigsawPuzzle\JigsawPuzzle\obj\Debug\JigsawPuzzle.Form1.resources
+D:\C# projects\JigsawPuzzle\JigsawPuzzle\obj\Debug\JigsawPuzzle.Properties.Resources.resources
+D:\C# projects\JigsawPuzzle\JigsawPuzzle\obj\Debug\JigsawPuzzle.csproj.GenerateResource.Cache
+D:\C# projects\JigsawPuzzle\JigsawPuzzle\obj\Debug\JigsawPuzzle.exe
+D:\C# projects\JigsawPuzzle\JigsawPuzzle\obj\Debug\JigsawPuzzle.pdb
